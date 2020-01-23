@@ -1,0 +1,27 @@
+Bike
+----
+2551 Miles Cincinnati --> SF
+20mph Average Bike Speed
+Approx. 128 hours --> 5 days nonstop
+Rate of 10h/day @ avg. speed 20mph --> 13 days
+My Carbon Footprint: Basically Zero
+
+Fly
+---
+2031 Miles CVG - SFO nonstop
+Boeing 737-900ER Aircraft // 215 pax. max capacity
+CO2 Production Rate: 53 lbs/mile
+5 hour travel time
+Total amount of CO2 generated: 107643 lbs
+My Carbon Footprint: Approx. 500 lbs of CO2
+
+Car
+---
+2413 Miles Cincinnati --> SF
+35 Hours nonstop
+26mph average gas milage (2015 Chrysler 200s)
+CO2 Production Rate: 20 lbs/gallon
+Drive 12h/day --> Approx 3 days total travel time
+15.8 Gallon Tank --> 411 miles per tank --> 316 lbs of CO2 per tank
+Approx. 6 tanks of gas
+My Carbon Footprint: Approx. 1896 lbs of CO2
